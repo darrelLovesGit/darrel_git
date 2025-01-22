@@ -1,2 +1,2 @@
 # darrel_git
-hello my name is darrel, i am a programmer
+hello my name is darrel, i am a programmer. i am learning at timedoor
